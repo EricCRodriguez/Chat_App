@@ -1,3 +1,15 @@
+Project URL: https://chat-app-ericr.netlify.app/
+
+Dependencies: npm install @ant-design/icons axios react-chat-engine
+
+This project is built utilizing Sockets, Rest APIs, Sending Images, React Hooks, Props, and CSS.
+
+Frontend is built with React.JS
+
+Backend is hosted by  [https://chatengine.io]
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
